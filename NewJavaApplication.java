@@ -8,7 +8,7 @@ public class NewJavaApplication {
         double testObjektZwei = 4.6;
         double zusammenGefasst = testObjektZwei + testObjekt;
 
-        float blaBliBlub = 5.6F;
+        float blaBliBlub = 5.64F;
         float blaBla = 8.9F;
         float powerEins = blaBla + blaBliBlub;
 
