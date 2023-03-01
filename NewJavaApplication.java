@@ -1,6 +1,6 @@
 public class NewJavaApplication {
     public static void main (String [] args) {
-        int kontoStand = 4 + 5;
+        int kontoStand = 4 + 7;
         int kontoStandSarah = 9;
         int result = kontoStand + kontoStandSarah * 3;
 
